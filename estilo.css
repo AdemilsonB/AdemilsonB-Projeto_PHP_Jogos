@@ -1,0 +1,70 @@
+/* arquivo para editar visual da pagina de cadastros de jogos */
+
+body {
+	font-family: Verdana;
+	font-size: 14px;
+	background-color: #E0FFFF;
+}
+
+label {
+	font-weight: bold;
+	color: grey;
+	font-size: 12px;
+}
+
+.menu {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+
+.menu li {
+	display: inline;
+}
+
+.menu li a {
+	color: #A52A2A;
+	text-decoration: none;
+	padding: 5px;
+}
+
+.menu li a:hover{
+	color: #ff1a75;
+}
+
+.buttone {
+	background-color: #F9F57F;
+}
+
+.bote {
+	border-radius: 9px;
+	padding: 4px;
+	border-style: #FFB90F;
+	border-width: 2px;
+}
+.boottte {
+	border-radius: 9px;
+	padding: 4px;
+	border-style: #FFB90F;
+	border-width: 2px;
+}
+.buttonni {
+	background-color: #7295FF;
+}
+.fontti {
+	font-family: DejaVu Sans;
+	font-size: 21px;
+}
+.title {
+	color: #032DA7;
+}
+
+.jogos {
+	color: #2344A9;
+}
+.indices {
+	color: #1A1A17;
+}
+.edit {
+	color: #2390C7;
+}
